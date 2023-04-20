@@ -1,0 +1,15 @@
+/Users/maleem/Documents/study/DesignPatterns/Prototype/bin/Debug/net7.0/Prototype
+/Users/maleem/Documents/study/DesignPatterns/Prototype/bin/Debug/net7.0/Prototype.deps.json
+/Users/maleem/Documents/study/DesignPatterns/Prototype/bin/Debug/net7.0/Prototype.runtimeconfig.json
+/Users/maleem/Documents/study/DesignPatterns/Prototype/bin/Debug/net7.0/Prototype.dll
+/Users/maleem/Documents/study/DesignPatterns/Prototype/bin/Debug/net7.0/Prototype.pdb
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/Prototype.csproj.AssemblyReference.cache
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfoInputs.cache
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfo.cs
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/Prototype.dll
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/refint/Prototype.dll
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/Prototype.pdb
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/Prototype.genruntimeconfig.cache
+/Users/maleem/Documents/study/DesignPatterns/Prototype/obj/Debug/net7.0/ref/Prototype.dll
